@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktheme_dev_docs=self.webpackChunktheme_dev_docs||[]).push([[1260],{5599:function(e){e.exports=JSON.parse('{"label":"hello","permalink":"/theme-dev-docs/blog/tags/hello","allTagsPath":"/theme-dev-docs/blog/tags","count":2}')}}]);
