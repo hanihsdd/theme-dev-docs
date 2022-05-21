@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktheme_dev_docs=self.webpackChunktheme_dev_docs||[]).push([[8148],{2969:function(e){e.exports=JSON.parse('{"title":"Components","slug":"/category/components","permalink":"/theme-dev-docs/docs/category/components","navigation":{"next":{"title":"Aspect Ratio","permalink":"/theme-dev-docs/docs/components/aspect-ratio"}}}')}}]);
